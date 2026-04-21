@@ -4,7 +4,7 @@
 I’m a **Computer Science** student, building systems that go beyond coursework — with a strong focus on real-world impact through full-stack engineering and applied AI.
 
 <br>At **BigyanLabs**, I worked as a **Software Development Engineer Intern** where I took ownership of building and deploying the company’s e-commerce platform end-to-end. This wasn’t a side project or a demo — it is their **official website** and is actively used for **day-to-day business operations**. From designing backend APIs and authentication flows to handling order lifecycle and payment integration, the focus was on making the system reliable enough to handle real users and real transactions. 
-**Visit the website:**   [bigyanlabs.tech](https://bigyanlabs.tech/)
+<br>**Visit the website:**   [bigyanlabs.tech](https://bigyanlabs.tech/)
 
 <br>Alongside this, my experience as a **Winter Research Intern** at **IIT (ISM) Dhanbad** pushed me deeper into **applied AI**. While working on anomaly detection, I realized that performance doesn’t come from models alone — it depends on how well the entire pipeline is built. Much of the work involved handling noisy data, refining feature representations, and improving temporal modelling so the system performs consistently under real conditions, not just in ideal setups.
 
